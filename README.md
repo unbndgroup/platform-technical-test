@@ -45,4 +45,4 @@ The solution and documentation will be rated against the following categories:
 - Security
 - Anti-fragility
 
-The documentation is as important as the code. We are looking to understand why you chose a certain solution and what trade offs it has. Be prefered to answer any question about your solution at the next interview stage.
+The documentation is as important as the code. We are looking to understand why you chose a certain solution and what trade offs it has. Be prepared to answer any question about your solution at the next interview stage.
